@@ -9,7 +9,7 @@
 - Currently learning React.js
 
 📫 How to reach me:
-- [Portfolio Website](https://papusahu.github.io/my-portfolio)
+- [Portfolio Website](https://Papu-sahu.github.io/my-portfolio)
 - [LinkedIn](#)
 - [GitHub](https://github.com/papusahu)
 
